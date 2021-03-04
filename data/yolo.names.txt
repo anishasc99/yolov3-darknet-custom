@@ -1,8 +1,0 @@
-date
-from
-invoice_number
-product_name
-product_price
-product_quantity
-to
-total_amount
